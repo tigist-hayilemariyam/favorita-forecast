@@ -59,7 +59,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens automatically in your browser at `http://localhost:8501`.
+🔗 **Live App:** https://favorita-forecast-a8eucrvtfzwediuvjyaj92.streamlit.app
 
 ---
 
